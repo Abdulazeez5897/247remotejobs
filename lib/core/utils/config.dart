@@ -15,7 +15,6 @@ class AppConfig {
   static const String flutterWaveBaseUrl = 'https://api.flutterwave.com/v3';
   static const String paystackApiKey = 'pk_live_540bdf095640f7765b0a822f08161087b68df565';
   static const String paystackApiKeyTest = 'pk_test_aae035e8425d5319b6500ef86c0472474a38a5fd';
-  static const String PAYSTACK_SECRET_KEY = 'sk_live_f3e8cad64fa1b51f9b5e9d857032f6e72bbc1d10';
   static const String flutterWaveTestKey = 'FLWPUBK_TEST-07c9ee8a719c8e4bf7216e273e7de20f-X';
   static const String flutterWaveLiveKey = 'FLWPUBK-5c5e8a37a04632f42f61c4e1e872d073-X';
   static const String youtubeOfficial = 'https://www.youtube.com/@Afriprize/featured';
