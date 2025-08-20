@@ -24,3 +24,4 @@ class AppConfig {
   static const String GOOGLESTOREURL = 'https://play.google.com/store/apps/details?id=com.afriprize.afriprize&pcampaignid=web_share';
 
 }
+
